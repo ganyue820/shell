@@ -1,16 +1,15 @@
 ESAFENET
 =============
-```
 ###Version: 0.0.2
-###Before Use 
+###Step 1
 ```
 remove .svn or other file than nonbusiness of source code
 ```
-###In Encrypt System
+###Step 2
 ```
-source code dir and doOut.sh must be in same dir
+copy doOut.sh,source code dir and doOut.sh must be in same dir
 ```
-###Usage
+###Step 3
 ```
 ./doOut dir 0
 ```
@@ -20,11 +19,11 @@ Use this command to let encrypted code to bin that can't be encrypted when copy 
 ````
 
 ```
-###In Unencrypt System
+###Step 4
 ```
 copy outdir to unencrpyt system, outdir and doOut.sh must be in same dir
 ```
-###Usage
+###Step 5
 ```
 ./doOut outdir/dir 1
 ```
