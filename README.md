@@ -1,5 +1,7 @@
 ESAFENET
 =============
+ESAFENET is a software can encrpty source code
+use doOut.sh can get source code from encrpt system
 ###Version: 0.0.2
 ###Step 1
 ```
